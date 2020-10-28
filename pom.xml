@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.oracle.JenkinTest</groupId>
     <artifactId>jenkinfiledemo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>test</version>
     <name>jenkinfiledemo</name>
     <description>Demo project for Spring Boot</description>
 
