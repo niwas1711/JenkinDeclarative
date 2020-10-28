@@ -8,7 +8,7 @@
         <version>2.3.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.oracle.JenkinTest</groupId>
+    <groupId>com.oracle.jenkintest</groupId>
     <artifactId>jenkinfiledemo</artifactId>
     <version>test</version>
     <name>jenkinfiledemo</name>
