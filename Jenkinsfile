@@ -39,14 +39,14 @@ pipeline {
                 sh "mvn clean package"  
             }
         }
-        stage('docker Build') {
+      /*  stage('docker Build') {
                     steps {
                         echo "Java home ${JAVA_HOME}"
                            echo "Maven home ${M2_HOME}"
                            echo "Maven home ${PATH}"
                         sh "mvn spring-boot:build-image"
                     }
-                }
+                }*/
     }
     
      
